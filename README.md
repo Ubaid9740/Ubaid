@@ -10,6 +10,7 @@ Here’s a look at the technologies I work with and my core areas of interest:
 . Data Sciences & Analytics: Skilled in data manipulation and analysis, transforming raw data into meaningful insights.
 . Machine Learning & Deep Learning: Developing intelligent models that can learn from data, with a strong foundation in Python.
 . Artificial Intelligence & NLP: Exploring AI and NLP concepts to enable human-like understanding and responses.
+
 👨‍💻 Programming Skills
 . Languages: Python (very proficient), Java, JavaScript, SQL
 . Tools: Figma for UI/UX design
