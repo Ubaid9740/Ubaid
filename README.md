@@ -1,25 +1,23 @@
-Hello! 👋 I'm Ubaid
-Software Engineering Student | AI & Data Science Enthusiast
+<h1 align="center">Hi 👋, I'm Ubaid</h1>
+<h3 align="center">An Aspiring Software Engineer | AI & Data Science Enthusiast</h3>
 
-📚 About Me
-I’m a Software Engineering student at Karachi University with a passion for AI, machine learning, and data sciences. My goal is to leverage my skills to develop innovative solutions and push the boundaries of technology, especially in fields related to AI and data.
+- 🔭 **Building skills in machine learning and LLMs through projects and coursework.**
 
-🛠️ Skills & Expertise
-Here’s a look at the technologies I work with and my core areas of interest:
+- 🌱 **Exploring advanced ML and NLP techniques and frameworks to deepen my knowledge in AI and data science.**
 
-. Data Sciences & Analytics: Skilled in data manipulation and analysis, transforming raw data into meaningful insights.
-. Machine Learning & Deep Learning: Developing intelligent models that can learn from data, with a strong foundation in Python.
-. Artificial Intelligence & NLP: Exploring AI and NLP concepts to enable human-like understanding and responses.
+- 🤝 I am open to Collaborate on **data science and machine learning projects that could enhance my skills. my skills**
 
-👨‍💻 Programming Skills
-. Languages: Python (very proficient), Java, JavaScript, SQL
-. Tools: Figma for UI/UX design
-🌱 Currently Learning
-I'm diving deeper into advanced ML techniques, NLP frameworks, and honing my skills in data visualization and analytics.
+- 📦 **I have build variouse AI models and also worked with opencv**
 
-🤝 Let’s Connect
-I'm always open to collaboration on AI or data-driven projects and excited to connect with others in tech. Feel free to reach out to me on LinkedIn or explore my projects here on GitHub.
+- 📫 How to reach me **www.linkedin.com/in/ubaid-rehman-8883a1297**
 
-Fun Fact
-I love learning about emerging AI trends and their real-world applications. When I’m not coding, I’m likely exploring how these innovations could impact our future!
+- ⚡ Fun fact **I spend more time with my models than I do with real people, but at least my models don’t judge me for my code quality 😅💻**
+
+
+<p align="left">
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+
 
