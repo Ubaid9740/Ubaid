@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Ubaid</h1>
 <h3 align="center">An Aspiring Software Engineer | AI & Data Science Enthusiast</h3>
 
-- 🔭 **Building skills in machine learning and LLMs through projects and coursework.**
+- 🔭 **I'm Currently working on inhancing my skills in machine learning and LLMs through projects and coursework.**
 
 - 🌱 **Exploring advanced ML and NLP techniques and frameworks to deepen my knowledge in AI and data science.**
 
-- 🤝 I am open to Collaborate on **data science and machine learning projects that could enhance my skills.**
+- 🤝 I am open to Collaborate on **data science and machine learning projects that can deepen my expertise and drive my growth**
 
 - 📦 **I have build variouse AI/ML models and also worked with opencv**
 
