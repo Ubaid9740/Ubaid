@@ -7,7 +7,7 @@
 
 - 🤝 I am open to Collaborate on **data science and machine learning projects that can deepen my expertise and drive my growth**
 
-- 📦 **I have build variouse AI/ML models and also worked with opencv**
+- 📦 **I’ve built various AI and ML models, worked with OpenCV, and have experience as a Python developer.**
 
 - 📫 How to reach me **www.linkedin.com/in/ubaid-rehman-8883a1297**
 
