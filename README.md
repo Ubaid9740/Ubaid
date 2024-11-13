@@ -1,18 +1,18 @@
 <h1 align="center">Hi 👋, I'm Ubaid</h1>
 <h3 align="center">An Aspiring Software Engineer | AI & Data Science Enthusiast</h3>
 
- 🔭 **I'm Currently working on inhancing my skills in machine learning and LLMs through projects and coursework.**
+ - 🔭 **I'm Currently working on inhancing my skills in machine learning and LLMs through projects and coursework.**
 
- 🌱 **Exploring advanced ML and NLP techniques and frameworks to deepen my knowledge in AI and data science.**
+ - 🌱 **Exploring advanced ML and NLP techniques and frameworks to deepen my knowledge in AI and data science.**
 
- 🤝 I am open to Collaborate on **data science and machine learning projects that can deepen my expertise and drive my growth**
+ - 🤝 I am open to Collaborate on **data science and machine learning projects that can deepen my expertise and drive my growth**
 
- 📦 **I’ve built various AI and ML models, worked with OpenCV, and have experience as a Python developer.**
+ - 📦 **I’ve built various AI and ML models, worked with OpenCV, and have experience as a Python developer.**
 
- 📫 How to reach me **www.linkedin.com/in/ubaid-rehman-8883a1297**
+ - 📫 How to reach me **www.linkedin.com/in/ubaid-rehman-8883a1297**
  
 
- ⚡ Fun fact **I spend more time with my models than I do with real people, but at least my models don’t judge me for my code quality 😅💻**
+ - ⚡ Fun fact **I spend more time with my models than I do with real people, but at least my models don’t judge me for my code quality 😅💻**
 
 
 <p align="left">
