@@ -5,7 +5,7 @@
 
 - 🌱 **Exploring advanced ML and NLP techniques and frameworks to deepen my knowledge in AI and data science.**
 
-- 🤝 I am open to Collaborate on **data science and machine learning projects that could enhance my skills. my skills**
+- 🤝 I am open to Collaborate on **data science and machine learning projects that could enhance my skills.**
 
 - 📦 **I have build variouse AI/ML models and also worked with opencv**
 
